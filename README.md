@@ -1,6 +1,8 @@
 # FFCS-Planner-Python
 ## Auto Slot Picker
-An Algorithm that makes a VIT time table [ Auto Slot Picker](https://ffcs.vitrendz.com/)
+An algorithm for selecting VIT timetable slots without course clashes. This is a historical team project.
+
+The original Auto Slot Picker deployment at `ffcs.vitrendz.com` is no longer available (DNS check: 21 October 2026). The source remains here as an earlier algorithms project; no working hosted demonstration is currently promised.
 
 ### Problem Statement:
 > Every College got it's own way of giving the courses to students but Vellore Institute of Technology - Vellore has a unique system for allotting courses to students called Fully Flexible credit system [FFCS](https://vit.ac.in/academics/ffcs "FFCS").
